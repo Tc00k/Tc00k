@@ -2,14 +2,11 @@
 
 ###
 
-<img align="right" height="200" src="https://i.ibb.co/y0rdD0f/Screenshot-2023-11-08-at-3-05-30-PM.png"  />
-
 ###
 
-<p align="left">🍎 I'm a MacOS Systems Administrator</p>
-<p align="left">📚 I'm currently learning: Swift, Java
-<p align="left">❗ My quest is: Creating the ultimate user experience
-<p aligh="left">🗣️ Here is everything i'm proficient in:
+<p align="left">⚔️ Class: MacOS Systems Administrator</p>
+<p align="left">❗ Active Quest: Creating the ultimate user experience
+<p aligh="left">📋 Skills/Perks:
 
 ###
 
@@ -27,7 +24,7 @@
 
 ###
 
-<p align="left">📫 Feel free to reach out to me any of the ways listed below
+<p align="left">📫 Contact me:
 
 
 <div align="left">
@@ -38,3 +35,5 @@
 </div>
 
 ###
+> Sucking at something is the first step to being sorta good at something
+<p align="left">           -- Jake the Dog
