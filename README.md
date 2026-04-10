@@ -40,3 +40,8 @@
 ###
 > Sucking at something is the first step to being sorta good at something
 <p align="left">           -- Jake the Dog
+
+---
+
+> I beseech you to treasure up in your hearts, these my parting words, be ashamed to die until you have won some victory for humanity
+<p align="left">           -- Horace Mann
